@@ -14,4 +14,4 @@ uninstall:
 	modprobe -r tcp_ledbat	
 
 clean:
-	rm -rf Module.markers modules.order Module.symvers tcp_ledbat.ko tcp_ledbat.mod tcp_ledbat.mod.c tcp_ledbat.mod.o tcp_ledbat.o
+	rm -rf Module.markers modules.order Module.symvers tcp_ledbat.ko tcp_ledbat.mod. tcp_ledbat.mod.c tcp_ledbat.mod.o tcp_ledbat.o
